@@ -31,8 +31,7 @@ This repository constains of content below;
 * Installation, Hammer_and_wrench:
 Clone the repository and run the console.py
 
-* 
-Usage :wrench:
+* Usage :wrench:
 
 |   **Method**   |   **Description**   |
 | -------------- | --------------------- |
